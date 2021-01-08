@@ -1,0 +1,79 @@
+body{font-family: 'Bebas Neue', cursive;margin:0;}
+
+h1{
+    font-size:70px;
+}
+p{color:dimgray;}
+.name{color:rgb(3, 25, 219);}
+
+.half-width {
+    width:40%;
+    float:left;
+margin-left:5%;
+padding-left:2%;
+}
+.half-width img{width:100%;}
+
+.button{text-decoration: none;
+    background-color:rgb(241, 111, 78);
+    background-image: linear-gradient(lightSalmon);
+    padding:7px 20px;
+    border-radius: 4px;
+    font-weight:650;
+    color:white;
+}
+section{height:500px;
+    padding-bottom:150px}
+.prodiv{margin:5;
+        padding-top:1px;
+        padding-bottom:35px;
+        padding-left:20px;
+        padding-right:20px;
+        width:100%;
+        height:500px;
+        background-color:rgb(233, 233, 233);}
+
+#pic{width:100%;}
+
+.thried{border-radius: 10px;width:30%;
+    background-color:white;padding:5px;
+    float:right;margin-bottom:10;height:65%;}
+
+.first{border-radius: 10px;width:30%;
+    background-color:white;padding:5px;
+    float:left;height:65%;}
+
+.second{border-radius: 10px;width:30%;
+    background-color:white;padding:5px; 
+    margin:auto;float:left;margin-left:38px;height:65%;}
+
+.that{font-size:50px;padding-left:30%;}
+.unknown{color:coral;}
+
+#working{color:rgb(7, 14, 82)}
+
+.name-highlight{color:rgb(24, 23, 23);}
+
+.known{color:rgb(255, 0, 106);font-size:50px;padding-left:50%;}
+
+#hobby{color:hsl(51, 19%, 78%);}
+
+.hob{height:65%;border-radius:5px;
+    background-color:white;padding:5px;}
+
+#last{font-size: 50px;color:red;float:left;margin-left:10%}
+.inquiry{box-sizing:border-box;
+    background-color:slateblue;
+    border-radius:20px;margin:5;
+    padding-top:1px;
+    padding-right:20px;
+    width:70%;
+    height:150px;
+    margin-left:20%;}
+.let{float:right;padding-top: 7px;margin-right:20px;margin-top:8%}
+
+.contract{padding-right:30px;font-size:20px;}
+#mail{padding-left:41%;}
+#stay{color:rgb(199, 193, 193);padding-left:45%;}
+
+.images{padding-left:33%;}
